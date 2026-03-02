@@ -11,12 +11,13 @@
   },
   "app": {
     "windows": [
-      {
-        "title": "runa",
-        "width": 800,
-        "height": 600
-      }
-    ],
+  {
+    "title": "runa",
+    "fullscreen": true,
+    "resizable": true,
+    "decorations": true
+  }
+],
     "security": {
       "csp": null
     }
